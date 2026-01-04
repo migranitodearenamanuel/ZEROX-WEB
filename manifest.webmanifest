@@ -1,0 +1,15 @@
+{
+    "name": "ZEROX - Intelligent Automation Core",
+    "short_name": "ZEROX",
+    "start_url": "./es/index.html",
+    "display": "standalone",
+    "background_color": "#07080B",
+    "theme_color": "#E11D48",
+    "icons": [
+        {
+            "src": "./assets/brand/zerox-logo.png",
+            "sizes": "any",
+            "type": "image/png"
+        }
+    ]
+}

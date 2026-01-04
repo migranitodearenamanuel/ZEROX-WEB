@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAQ • ZEROX Core</title>
+    <link rel="canonical" href="https://migranitodearenamanuel.github.io/zerox-web/en/faq.html">
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="icon" type="image/png" href="../assets/brand/favicon.png">
+</head>
+
+<body>
+    <nav class="navbar">
+        <div class="container flex nav-content">
+            <a href="index.html" class="logo">
+                <img src="../assets/brand/favicon.png" alt="ZEROX">
+                <span>ZEROX</span>
+            </a>
+            <div class="nav-links">
+                <a href="product.html">Product</a>
+                <a href="architecture.html">Architecture</a>
+                <a href="safety.html">Safety</a>
+                <a href="faq.html">FAQ</a>
+                <a href="../es/index.html" style="opacity:0.5;">ES</a>
+                <a href="#" class="active">EN</a>
+            </div>
+        </div>
+    </nav>
+
+    <header class="hero-small">
+        <canvas id="neural-bg"></canvas>
+        <div class="container">
+            <span class="hero-tag">SUPPORT</span>
+            <h1 class="text-gradient">Frequently Asked Questions</h1>
+            <p style="max-width: 600px; margin: 20px auto; color: var(--text-muted);">
+                Technical details for operators and engineers.
+            </p>
+        </div>
+    </header>
+
+    <section class="section">
+        <div class="container" style="max-width: 800px;">
+            <div class="card reveal" style="margin-bottom: 2rem;">
+                <h3 class="text-accent" style="margin-bottom: 1rem;">What do I need to run ZEROX?</h3>
+                <p>Python 3.9 or higher. We recommend a Linux VPS (Ubuntu 22.04) with at least 2GB RAM for 24/7 headless
+                    execution. Works on Windows/Mac for dev.</p>
+            </div>
+            <div class="card reveal" style="margin-bottom: 2rem;">
+                <h3 class="text-accent" style="margin-bottom: 1rem;">Is it truly autonomous?</h3>
+                <p>Yes. Once `.env` and `settings.json` are configured, ZEROX starts the main loop and only stops on
+                    critical errors or manual kill signals.</p>
+            </div>
+            <div class="card reveal" style="margin-bottom: 2rem;">
+                <h3 class="text-accent" style="margin-bottom: 1rem;">How much does it cost?</h3>
+                <p>The core is Open Source (MIT License). You are free to use, modify, and deploy it. We do not charge
+                    for the software.</p>
+            </div>
+            <div class="card reveal" style="margin-bottom: 2rem;">
+                <h3 class="text-accent" style="margin-bottom: 1rem;">Can I contribute?</h3>
+                <p>Absolutely. We accept GitHub Pull Requests that improve stability or add new integration modules.</p>
+            </div>
+        </div>
+    </section>
+
+    <div class="chat-widget">
+        <button id="chat-toggle" class="chat-toggle"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+                stroke="currentColor" stroke-width="2">
+                <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+            </svg></button>
+        <section id="chat-window" class="chat-window">
+            <header class="chat-header">
+                <div>
+                    <div style="font-weight:bold; color:#fff;">ZEROX AI Chat</div>
+                </div>
+                <button id="chat-close" style="background:none; border:none; color:var(--text-muted);">✕</button>
+            </header>
+            <div id="chat-mensajes" class="chat-body">
+                <div class="chat-msg bot">System online.</div>
+            </div>
+            <form id="chat-form" class="chat-input-area">
+                <textarea id="chat-input" class="chat-input" rows="1"></textarea>
+                <button id="chat-enviar" class="chat-send">></button>
+            </form>
+        </section>
+    </div>
+
+    <script src="../assets/js/config.js?v=5"></script>
+    <script type="module" src="../assets/js/repobrain.js?v=5"></script>
+    <script src="../assets/js/particles.js?v=5"></script>
+    <script src="../assets/js/app.js?v=5"></script>
+</body>
+
+</html>
