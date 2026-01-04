@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://migranitodearenamanuel.github.io/Zerox-Core/sitemap.xml

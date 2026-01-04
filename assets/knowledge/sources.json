@@ -1,0 +1,1167 @@
+[
+  {
+    "path": "APRENDER_LIBROS.bat",
+    "chunks": 3,
+    "mtime": 1765921193.6559336
+  },
+  {
+    "path": "auditoria_final_produccion.py",
+    "chunks": 8,
+    "mtime": 1765906069.0554385
+  },
+  {
+    "path": "auto_actualizador.py",
+    "chunks": 4,
+    "mtime": 1765906042.3205643
+  },
+  {
+    "path": "config_maestra.py",
+    "chunks": 14,
+    "mtime": 1765312102.5581987
+  },
+  {
+    "path": "descargar_modelo_seguro.py",
+    "chunks": 4,
+    "mtime": 1765907004.1235342
+  },
+  {
+    "path": "estado_bot.json",
+    "chunks": 1,
+    "mtime": 1767388283.2578351
+  },
+  {
+    "path": "fuentes_inteligencia.txt",
+    "chunks": 11,
+    "mtime": 1765921818.8278377
+  },
+  {
+    "path": "generar_auditoria_total.py",
+    "chunks": 34,
+    "mtime": 1765737935.187625
+  },
+  {
+    "path": "iniciador_automatico.py",
+    "chunks": 8,
+    "mtime": 1765907598.0111196
+  },
+  {
+    "path": "LANZAR_TODO.bat",
+    "chunks": 4,
+    "mtime": 1765912381.1053233
+  },
+  {
+    "path": "LEEME.txt",
+    "chunks": 5,
+    "mtime": 1765907892.1348689
+  },
+  {
+    "path": "limpieza_emergencia.py",
+    "chunks": 10,
+    "mtime": 1765549461.4852862
+  },
+  {
+    "path": "package.json",
+    "chunks": 6,
+    "mtime": 1765312067.3912485
+  },
+  {
+    "path": "PARADA_EMERGENCIA.bat",
+    "chunks": 4,
+    "mtime": 1765405411.5572052
+  },
+  {
+    "path": "preparar_auditoria.py",
+    "chunks": 8,
+    "mtime": 1765734207.9217796
+  },
+  {
+    "path": "requisitos.txt",
+    "chunks": 2,
+    "mtime": 1765920421.0671427
+  },
+  {
+    "path": "RUNBOOK_REAL.md",
+    "chunks": 10,
+    "mtime": 1765891827.2990665
+  },
+  {
+    "path": "verificar_ia_local.py",
+    "chunks": 2,
+    "mtime": 1765907288.546696
+  },
+  {
+    "path": "verificar_saldo_real.py",
+    "chunks": 7,
+    "mtime": 1765905998.3147843
+  },
+  {
+    "path": "vite.config.js",
+    "chunks": 4,
+    "mtime": 1765921747.6796267
+  },
+  {
+    "path": "conocimiento/Bitcoin_criptomonedas_y_blockchain_Carlos_Domingo.epub",
+    "chunks": 1653,
+    "mtime": 1753699314.2901108
+  },
+  {
+    "path": "conocimiento/cerebro.txt",
+    "chunks": 1494,
+    "mtime": 1767385747.5688062
+  },
+  {
+    "path": "conocimiento/Como_invertir_en_el_mercado_de_valores_para_principiantes_Richard.epub",
+    "chunks": 361,
+    "mtime": 1753699430.2313814
+  },
+  {
+    "path": "conocimiento/Criptomonedas_para_dummies_Carlos_Vallejo_Gonzalez.epub",
+    "chunks": 1,
+    "mtime": 1753699309.7963455
+  },
+  {
+    "path": "conocimiento/dokumen.pub_cryptoassets-the-innovative-investors-guide-to-bitcoin-and-beyond-9781260026689-126002668x-9781260026672-1260026671 (1).azw3",
+    "chunks": 1,
+    "mtime": 1754436367.6103473
+  },
+  {
+    "path": "conocimiento/dokumen.pub_cryptoassets-the-innovative-investors-guide-to-bitcoin-and-beyond-9781260026689-126002668x-9781260026672-1260026671.azw3",
+    "chunks": 1,
+    "mtime": 1754436311.434139
+  },
+  {
+    "path": "conocimiento/dokumen.pub_web3-marketing-a-handbook-for-the-next-internet-revolution-9781394171958-9781394172054-9781394171965-1394171951.epub",
+    "chunks": 1690,
+    "mtime": 1765915691.2634375
+  },
+  {
+    "path": "conocimiento/El_nuevo_vivir_del_trading_Alexander_Elder.epub",
+    "chunks": 1,
+    "mtime": 1754435855.9442494
+  },
+  {
+    "path": "conocimiento/El_patron_Bitcoin_Saifedean_Ammous.epub",
+    "chunks": 1,
+    "mtime": 1754435678.5577805
+  },
+  {
+    "path": "conocimiento/El_trading_de_criptomonedas_Alejandro_LopezGonzalez.epub",
+    "chunks": 1,
+    "mtime": 1753699319.299406
+  },
+  {
+    "path": "conocimiento/Guia_para_invertir_Robert_Toru_Kiyosaki.epub",
+    "chunks": 1,
+    "mtime": 1753699382.1309648
+  },
+  {
+    "path": "conocimiento/Invertir_como_nunca_te_han_contado_Martin_Huete.epub",
+    "chunks": 1244,
+    "mtime": 1753699397.0264134
+  },
+  {
+    "path": "conocimiento/Invertir_en_bolsa_en_una_semana_Vicente_Hernandez.epub",
+    "chunks": 970,
+    "mtime": 1753699389.642411
+  },
+  {
+    "path": "conocimiento/Invertir_sin_perder_de_vista_la_inflacion_Guillaume_Steffens.epub",
+    "chunks": 1759,
+    "mtime": 1753699405.70792
+  },
+  {
+    "path": "conocimiento/La_nueva_economia_blockchain_y_criptomonedas_en_100_preguntas_Ismael.epub",
+    "chunks": 1,
+    "mtime": 1753699334.4889615
+  },
+  {
+    "path": "conocimiento/La_trama_Fibonacci_Karmelo_Ganan.epub",
+    "chunks": 545,
+    "mtime": 1753699361.6616547
+  },
+  {
+    "path": "conocimiento/Los_7_secretos_para_invertir_como_Warren_Buffett_Mary_Buffett.epub",
+    "chunks": 830,
+    "mtime": 1753699415.8611884
+  },
+  {
+    "path": "conocimiento/Mastering Bitcoin Unlocking Digital Cryptocurrencies (Andreas M. Antonopoulos) (z-lib.org).epub",
+    "chunks": 1,
+    "mtime": 1754436543.9669344
+  },
+  {
+    "path": "conocimiento/Mastering_Bitcoin_Andreas_Antonopoulos.epub",
+    "chunks": 1,
+    "mtime": 1754436125.641897
+  },
+  {
+    "path": "conocimiento/Practicas_de_analisis_tecnico_de_los_mercados_financieros_John_J.epub",
+    "chunks": 1752,
+    "mtime": 1754435583.3664205
+  },
+  {
+    "path": "datos/btc_usdt_15m.csv",
+    "chunks": 3227,
+    "mtime": 1765289818.7428815
+  },
+  {
+    "path": "datos/conjunto_datos_maestro_v2.csv",
+    "chunks": 3401,
+    "mtime": 1765291052.6784074
+  },
+  {
+    "path": "datos/indice_miedo_codicia.csv",
+    "chunks": 164,
+    "mtime": 1765290928.8782165
+  },
+  {
+    "path": "docs/_local_audit/ENTRYPOINTS.txt",
+    "chunks": 1,
+    "mtime": 1765896139.1109886
+  },
+  {
+    "path": "docs/_local_audit/pip_freeze.txt",
+    "chunks": 1,
+    "mtime": 1765896134.1477387
+  },
+  {
+    "path": "docs/_local_audit/SUMMARY.txt",
+    "chunks": 1,
+    "mtime": 1765896144.188706
+  },
+  {
+    "path": "docs/_local_audit/TOP_BIG_FILES.txt",
+    "chunks": 41,
+    "mtime": 1765896142.5686479
+  },
+  {
+    "path": "docs/_local_audit/TREE_DIRS.txt",
+    "chunks": 14,
+    "mtime": 1765896143.8150477
+  },
+  {
+    "path": "docs/_local_doctor/REPORT.txt",
+    "chunks": 2,
+    "mtime": 1765896677.1007736
+  },
+  {
+    "path": "docs/_local_doctor/RUN_NOW.txt",
+    "chunks": 1,
+    "mtime": 1765896673.6049447
+  },
+  {
+    "path": "docs/_support_pack/git_head.txt",
+    "chunks": 0,
+    "mtime": 1765895767.0882003
+  },
+  {
+    "path": "docs/_support_pack/git_remote.txt",
+    "chunks": 0,
+    "mtime": 1765895767.118207
+  },
+  {
+    "path": "docs/_support_pack/git_status.txt",
+    "chunks": 3,
+    "mtime": 1765895767.0572019
+  },
+  {
+    "path": "docs/_support_pack/meta.txt",
+    "chunks": 1,
+    "mtime": 1765895767.0186834
+  },
+  {
+    "path": "docs/_support_pack/pip_freeze.txt",
+    "chunks": 25,
+    "mtime": 1765895771.293883
+  },
+  {
+    "path": "docs/_support_pack/secret_scan.txt",
+    "chunks": 3128,
+    "mtime": 1765895848.07468
+  },
+  {
+    "path": "docs/_support_pack/top_big_files.txt",
+    "chunks": 28,
+    "mtime": 1765895770.2380614
+  },
+  {
+    "path": "docs/_support_pack/tree_dirs.txt",
+    "chunks": 837,
+    "mtime": 1765895768.2998033
+  },
+  {
+    "path": "electron/precarga.cjs",
+    "chunks": 1,
+    "mtime": 1765287244.999334
+  },
+  {
+    "path": "electron/principal.cjs",
+    "chunks": 13,
+    "mtime": 1765721230.842968
+  },
+  {
+    "path": "herramientas/descargar_modelos_fuerza.py",
+    "chunks": 6,
+    "mtime": 1765907790.3876014
+  },
+  {
+    "path": "herramientas/LEEME.txt",
+    "chunks": 3,
+    "mtime": 1765907919.6161838
+  },
+  {
+    "path": "herramientas/local_audit.ps1",
+    "chunks": 8,
+    "mtime": 1765896133.9821756
+  },
+  {
+    "path": "herramientas/make_support_pack.ps1",
+    "chunks": 8,
+    "mtime": 1765895632.5181084
+  },
+  {
+    "path": "herramientas/zerox_doctor.ps1",
+    "chunks": 14,
+    "mtime": 1765896672.4239068
+  },
+  {
+    "path": "inteligencia/academia_zerox.py",
+    "chunks": 31,
+    "mtime": 1765908403.2773173
+  },
+  {
+    "path": "inteligencia/analisis_sentimiento.py",
+    "chunks": 4,
+    "mtime": 1765906044.7265787
+  },
+  {
+    "path": "inteligencia/auto_mejora.py",
+    "chunks": 12,
+    "mtime": 1765921979.149631
+  },
+  {
+    "path": "inteligencia/configuracion.py",
+    "chunks": 10,
+    "mtime": 1765919539.1666026
+  },
+  {
+    "path": "inteligencia/descargar_modelo.py",
+    "chunks": 3,
+    "mtime": 1764799735.617342
+  },
+  {
+    "path": "inteligencia/entorno_trading.py",
+    "chunks": 25,
+    "mtime": 1765288964.193169
+  },
+  {
+    "path": "inteligencia/entorno_trading_v2.py",
+    "chunks": 22,
+    "mtime": 1765297742.9408562
+  },
+  {
+    "path": "inteligencia/entrenador_parametros.py",
+    "chunks": 31,
+    "mtime": 1765820827.2464595
+  },
+  {
+    "path": "inteligencia/entrenar_agente.py",
+    "chunks": 9,
+    "mtime": 1765289091.7708213
+  },
+  {
+    "path": "inteligencia/entrenar_agente_v2.py",
+    "chunks": 11,
+    "mtime": 1765311599.2224188
+  },
+  {
+    "path": "inteligencia/entrenar_rapido.py",
+    "chunks": 18,
+    "mtime": 1765313131.263101
+  },
+  {
+    "path": "inteligencia/estado_dia.json",
+    "chunks": 1,
+    "mtime": 1767385720.6624615
+  },
+  {
+    "path": "inteligencia/estado_runtime.json",
+    "chunks": 1,
+    "mtime": 1765835135.1355503
+  },
+  {
+    "path": "inteligencia/extractor_epub.py",
+    "chunks": 3,
+    "mtime": 1765760445.4524343
+  },
+  {
+    "path": "inteligencia/extractor_pdf.py",
+    "chunks": 3,
+    "mtime": 1765760452.1849322
+  },
+  {
+    "path": "inteligencia/gestor_ordenes.py",
+    "chunks": 23,
+    "mtime": 1765919062.36235
+  },
+  {
+    "path": "inteligencia/gestor_riesgo.py",
+    "chunks": 139,
+    "mtime": 1765916399.974457
+  },
+  {
+    "path": "inteligencia/heartbeat.json",
+    "chunks": 1,
+    "mtime": 1767388283.1729834
+  },
+  {
+    "path": "inteligencia/ingesta_conocimiento.py",
+    "chunks": 3,
+    "mtime": 1765820956.6012132
+  },
+  {
+    "path": "inteligencia/ingesta_conocimiento_total.py",
+    "chunks": 41,
+    "mtime": 1765928157.1129003
+  },
+  {
+    "path": "inteligencia/ingestor_biblioteca.py",
+    "chunks": 16,
+    "mtime": 1765921217.360923
+  },
+  {
+    "path": "inteligencia/ledger_tp_sl.json",
+    "chunks": 12,
+    "mtime": 1765922016.1995282
+  },
+  {
+    "path": "inteligencia/LEEME.txt",
+    "chunks": 3,
+    "mtime": 1765907908.3629065
+  },
+  {
+    "path": "inteligencia/mente_local.py",
+    "chunks": 19,
+    "mtime": 1765920671.0287943
+  },
+  {
+    "path": "inteligencia/mente_maestra.py",
+    "chunks": 14,
+    "mtime": 1765922003.3160734
+  },
+  {
+    "path": "inteligencia/motor_financiero.py",
+    "chunks": 11,
+    "mtime": 1764785959.662839
+  },
+  {
+    "path": "inteligencia/notificador.py",
+    "chunks": 5,
+    "mtime": 1765306919.1413326
+  },
+  {
+    "path": "inteligencia/notificador_discord.py",
+    "chunks": 5,
+    "mtime": 1765301402.1246276
+  },
+  {
+    "path": "inteligencia/operador_maestro.py",
+    "chunks": 296,
+    "mtime": 1765921818.8527396
+  },
+  {
+    "path": "inteligencia/parametros_activos.json",
+    "chunks": 3,
+    "mtime": 1765838972.599354
+  },
+  {
+    "path": "inteligencia/procesador_datos.py",
+    "chunks": 9,
+    "mtime": 1765311599.2730825
+  },
+  {
+    "path": "inteligencia/puente_visual.py",
+    "chunks": 5,
+    "mtime": 1765544741.8319302
+  },
+  {
+    "path": "inteligencia/purga_ordenes.py",
+    "chunks": 6,
+    "mtime": 1765719910.5164137
+  },
+  {
+    "path": "inteligencia/recolector_datos.py",
+    "chunks": 7,
+    "mtime": 1765289082.4593036
+  },
+  {
+    "path": "inteligencia/recolector_macro.py",
+    "chunks": 7,
+    "mtime": 1765300946.0410924
+  },
+  {
+    "path": "inteligencia/recolector_noticias.py",
+    "chunks": 7,
+    "mtime": 1765300977.3227518
+  },
+  {
+    "path": "inteligencia/recolector_profundidad.py",
+    "chunks": 9,
+    "mtime": 1765300972.1658778
+  },
+  {
+    "path": "inteligencia/recolector_sentimiento.py",
+    "chunks": 5,
+    "mtime": 1765311599.3205376
+  },
+  {
+    "path": "inteligencia/reconstructor_blindaje.py",
+    "chunks": 16,
+    "mtime": 1765919113.4503803
+  },
+  {
+    "path": "inteligencia/reloj_bitget.py",
+    "chunks": 8,
+    "mtime": 1765833358.717803
+  },
+  {
+    "path": "inteligencia/rescate_critico.py",
+    "chunks": 10,
+    "mtime": 1765919150.980617
+  },
+  {
+    "path": "inteligencia/riesgo_persistencia.json",
+    "chunks": 1,
+    "mtime": 1767385720.6739619
+  },
+  {
+    "path": "inteligencia/salud_ollama.py",
+    "chunks": 6,
+    "mtime": 1765820913.3495572
+  },
+  {
+    "path": "inteligencia/salud_tiempo.py",
+    "chunks": 9,
+    "mtime": 1765727888.1087365
+  },
+  {
+    "path": "inteligencia/simbolos_bloqueados.json",
+    "chunks": 1,
+    "mtime": 1765727818.1649213
+  },
+  {
+    "path": "inteligencia/supervisor_zerox.py",
+    "chunks": 31,
+    "mtime": 1765905939.0242872
+  },
+  {
+    "path": "inteligencia/tpsl_profesional.py",
+    "chunks": 36,
+    "mtime": 1765850280.5061738
+  },
+  {
+    "path": "inteligencia/tpsl_virtuales.json",
+    "chunks": 12,
+    "mtime": 1765922015.1943686
+  },
+  {
+    "path": "inteligencia/__init__.py",
+    "chunks": 0,
+    "mtime": 1764107322.2300737
+  },
+  {
+    "path": "inteligencia/academia/estado/academia_estado.json",
+    "chunks": 1,
+    "mtime": 1767387872.7091992
+  },
+  {
+    "path": "inteligencia/academia/fuentes/manifiesto_zerox.txt",
+    "chunks": 2,
+    "mtime": 1765730313.2220516
+  },
+  {
+    "path": "inteligencia/academia/indice/indice_info.json",
+    "chunks": 3,
+    "mtime": 1767387872.7091992
+  },
+  {
+    "path": "inteligencia/academia/indice/metadatos.json",
+    "chunks": 1,
+    "mtime": 1767387872.7081993
+  },
+  {
+    "path": "inteligencia/academia/indice/vectores.npy",
+    "chunks": 1,
+    "mtime": 1767387872.6632628
+  },
+  {
+    "path": "inteligencia/academia/procesados/manifiesto_zerox.txt.txt",
+    "chunks": 2,
+    "mtime": 1765734476.5671527
+  },
+  {
+    "path": "inteligencia/analisis_tecnico/fibonacci.py",
+    "chunks": 11,
+    "mtime": 1765833568.3975468
+  },
+  {
+    "path": "inteligencia/analisis_tecnico/indicadores.py",
+    "chunks": 11,
+    "mtime": 1765846602.5028405
+  },
+  {
+    "path": "inteligencia/analisis_tecnico/patrones_chartistas.py",
+    "chunks": 47,
+    "mtime": 1765833724.2407506
+  },
+  {
+    "path": "inteligencia/analisis_tecnico/scoring_confluencias.py",
+    "chunks": 41,
+    "mtime": 1765833923.1470084
+  },
+  {
+    "path": "inteligencia/analisis_tecnico/__init__.py",
+    "chunks": 1,
+    "mtime": 1765818429.1766057
+  },
+  {
+    "path": "inteligencia/logs/evaluations.npz",
+    "chunks": 3,
+    "mtime": 1765290325.9678934
+  },
+  {
+    "path": "inteligencia/logs/PPO_1/events.out.tfevents.1765289934.Manuel.19240.0",
+    "chunks": 27,
+    "mtime": 1765290357.7750833
+  },
+  {
+    "path": "inteligencia/logs_turbo_v3/PPO_1/events.out.tfevents.1765309319.Manuel.21740.0",
+    "chunks": 1,
+    "mtime": 1765309324.1742325
+  },
+  {
+    "path": "inteligencia/logs_turbo_v3/PPO_2/events.out.tfevents.1765309380.Manuel.6476.0",
+    "chunks": 97,
+    "mtime": 1765309687.1281095
+  },
+  {
+    "path": "inteligencia/logs_turbo_v3/PPO_3/events.out.tfevents.1765309741.Manuel.16392.0",
+    "chunks": 6,
+    "mtime": 1765309768.6172256
+  },
+  {
+    "path": "inteligencia/logs_turbo_v3/PPO_4/events.out.tfevents.1765309833.Manuel.3888.0",
+    "chunks": 105,
+    "mtime": 1765310171.7990081
+  },
+  {
+    "path": "inteligencia/logs_turbo_v3/PPO_5/events.out.tfevents.1765310308.Manuel.17648.0",
+    "chunks": 11,
+    "mtime": 1765310350.203607
+  },
+  {
+    "path": "inteligencia/logs_turbo_v3/PPO_6/events.out.tfevents.1765310403.Manuel.41024.0",
+    "chunks": 716,
+    "mtime": 1765312781.5913236
+  },
+  {
+    "path": "inteligencia/logs_turbo_v3/PPO_7/events.out.tfevents.1765312886.Manuel.18744.0",
+    "chunks": 43,
+    "mtime": 1765313038.0835245
+  },
+  {
+    "path": "inteligencia/logs_turbo_v3/PPO_8/events.out.tfevents.1765313184.Manuel.27200.0",
+    "chunks": 10,
+    "mtime": 1765313219.5825174
+  },
+  {
+    "path": "inteligencia/logs_v2/evaluations.npz",
+    "chunks": 11,
+    "mtime": 1765296778.534404
+  },
+  {
+    "path": "inteligencia/logs_v2/PPO_1/events.out.tfevents.1765291666.Manuel.12560.0",
+    "chunks": 338,
+    "mtime": 1765296786.648556
+  },
+  {
+    "path": "inteligencia/logs_v2_turbo/0.monitor.csv",
+    "chunks": 2,
+    "mtime": 1765307378.2927022
+  },
+  {
+    "path": "inteligencia/logs_v2_turbo/1.monitor.csv",
+    "chunks": 2,
+    "mtime": 1765307457.6905165
+  },
+  {
+    "path": "inteligencia/logs_v2_turbo/2.monitor.csv",
+    "chunks": 2,
+    "mtime": 1765307260.0630639
+  },
+  {
+    "path": "inteligencia/logs_v2_turbo/3.monitor.csv",
+    "chunks": 2,
+    "mtime": 1765307166.2321851
+  },
+  {
+    "path": "inteligencia/logs_v2_turbo/4.monitor.csv",
+    "chunks": 2,
+    "mtime": 1765307417.8446972
+  },
+  {
+    "path": "inteligencia/logs_v2_turbo/5.monitor.csv",
+    "chunks": 2,
+    "mtime": 1765307167.4991162
+  },
+  {
+    "path": "inteligencia/logs_v2_turbo/6.monitor.csv",
+    "chunks": 2,
+    "mtime": 1765307131.9185786
+  },
+  {
+    "path": "inteligencia/logs_v2_turbo/7.monitor.csv",
+    "chunks": 2,
+    "mtime": 1765307378.7148802
+  },
+  {
+    "path": "inteligencia/logs_v2_turbo/evaluations.npz",
+    "chunks": 21,
+    "mtime": 1765307455.519497
+  },
+  {
+    "path": "inteligencia/logs_v2_turbo/PPO_1/events.out.tfevents.1765297259.Manuel.38220.0",
+    "chunks": 1,
+    "mtime": 1765297259.0708747
+  },
+  {
+    "path": "inteligencia/logs_v2_turbo/PPO_2/events.out.tfevents.1765297423.Manuel.30040.0",
+    "chunks": 28,
+    "mtime": 1765297541.6754518
+  },
+  {
+    "path": "inteligencia/logs_v2_turbo/PPO_3/events.out.tfevents.1765297839.Manuel.13596.0",
+    "chunks": 20,
+    "mtime": 1765297917.7632453
+  },
+  {
+    "path": "inteligencia/logs_v2_turbo/PPO_4/events.out.tfevents.1765298976.Manuel.18860.0",
+    "chunks": 1349,
+    "mtime": 1765307461.5545373
+  },
+  {
+    "path": "inteligencia/modelos/minilm_local/config.json",
+    "chunks": 2,
+    "mtime": 1765907053.7078717
+  },
+  {
+    "path": "inteligencia/modelos/minilm_local/model.safetensors",
+    "chunks": 1,
+    "mtime": 1765907058.2550697
+  },
+  {
+    "path": "inteligencia/modelos/minilm_local/modules.json",
+    "chunks": 1,
+    "mtime": 1765907063.3073547
+  },
+  {
+    "path": "inteligencia/modelos/minilm_local/sentence_bert_config.json",
+    "chunks": 1,
+    "mtime": 1765907805.7114809
+  },
+  {
+    "path": "inteligencia/modelos/minilm_local/special_tokens_map.json",
+    "chunks": 1,
+    "mtime": 1765907061.6580794
+  },
+  {
+    "path": "inteligencia/modelos/minilm_local/tokenizer.json",
+    "chunks": 1,
+    "mtime": 1765907060.1171641
+  },
+  {
+    "path": "inteligencia/modelos/minilm_local/tokenizer_config.json",
+    "chunks": 1,
+    "mtime": 1765907060.8973966
+  },
+  {
+    "path": "inteligencia/modelos/minilm_local/vocab.txt",
+    "chunks": 575,
+    "mtime": 1765907062.5480492
+  },
+  {
+    "path": "inteligencia/modelos/minilm_local/1_Pooling/config.json",
+    "chunks": 1,
+    "mtime": 1765907806.500998
+  },
+  {
+    "path": "inteligencia/modelos_turbo_v3/data",
+    "chunks": 26,
+    "mtime": 1765315910.0
+  },
+  {
+    "path": "inteligencia/modelos_turbo_v3/policy.optimizer.pth",
+    "chunks": 1068,
+    "mtime": 315529200.0
+  },
+  {
+    "path": "inteligencia/modelos_turbo_v3/policy.pth",
+    "chunks": 476,
+    "mtime": 315529200.0
+  },
+  {
+    "path": "inteligencia/modelos_turbo_v3/pytorch_variables.pth",
+    "chunks": 2,
+    "mtime": 315529200.0
+  },
+  {
+    "path": "inteligencia/modelos_turbo_v3/system_info.txt",
+    "chunks": 1,
+    "mtime": 1765315910.0
+  },
+  {
+    "path": "inteligencia/modelos_turbo_v3/_stable_baselines3_version",
+    "chunks": 1,
+    "mtime": 1765315910.0
+  },
+  {
+    "path": "inteligencia/operaciones/historico_entrenador.json",
+    "chunks": 1,
+    "mtime": 1765821728.2272193
+  },
+  {
+    "path": "inteligencia/operaciones/no_entra_motivos.log",
+    "chunks": 379,
+    "mtime": 1765917738.8364043
+  },
+  {
+    "path": "inteligencia/operaciones/preview_tpsl.log",
+    "chunks": 479,
+    "mtime": 1765922024.632524
+  },
+  {
+    "path": "inteligencia/operaciones/README.txt",
+    "chunks": 2,
+    "mtime": 1765724005.669897
+  },
+  {
+    "path": "inteligencia/operaciones/2025-12-16/AAVE_USDT",
+    "chunks": 0,
+    "mtime": 1765921731.1187105
+  },
+  {
+    "path": "inteligencia/operaciones/2025-12-16/ACE_USDT",
+    "chunks": 0,
+    "mtime": 1765920961.5132802
+  },
+  {
+    "path": "inteligencia/operaciones/2025-12-16/ADA_USDT",
+    "chunks": 0,
+    "mtime": 1765920898.5613344
+  },
+  {
+    "path": "inteligencia/operaciones/2025-12-16/ASTER_USDT",
+    "chunks": 0,
+    "mtime": 1765919945.2297072
+  },
+  {
+    "path": "inteligencia/operaciones/2025-12-16/BEAT_USDT",
+    "chunks": 0,
+    "mtime": 1765919298.3095224
+  },
+  {
+    "path": "inteligencia/operaciones/2025-12-16/BNB_USDT",
+    "chunks": 0,
+    "mtime": 1765920111.2615714
+  },
+  {
+    "path": "inteligencia/operaciones/2025-12-16/BTC_USDT",
+    "chunks": 0,
+    "mtime": 1765920134.6860175
+  },
+  {
+    "path": "inteligencia/operaciones/2025-12-16/DOGE_USDT",
+    "chunks": 0,
+    "mtime": 1765919553.069734
+  },
+  {
+    "path": "inteligencia/operaciones/2025-12-16/ETH_USDT",
+    "chunks": 0,
+    "mtime": 1765919794.541371
+  },
+  {
+    "path": "inteligencia/operaciones/2025-12-16/FORM_USDT",
+    "chunks": 0,
+    "mtime": 1765921485.0159354
+  },
+  {
+    "path": "inteligencia/operaciones/2025-12-16/HYPE_USDT",
+    "chunks": 0,
+    "mtime": 1765920040.5478196
+  },
+  {
+    "path": "inteligencia/operaciones/2025-12-16/LIGHT_USDT",
+    "chunks": 0,
+    "mtime": 1765920838.6607435
+  },
+  {
+    "path": "inteligencia/operaciones/2025-12-16/PEPE_USDT",
+    "chunks": 0,
+    "mtime": 1765920223.8978937
+  },
+  {
+    "path": "inteligencia/operaciones/2025-12-16/PIPPIN_USDT",
+    "chunks": 0,
+    "mtime": 1765919232.1290014
+  },
+  {
+    "path": "inteligencia/operaciones/2025-12-16/PTB_USDT",
+    "chunks": 0,
+    "mtime": 1765919395.8412547
+  },
+  {
+    "path": "inteligencia/operaciones/2025-12-16/RAVE_USDT",
+    "chunks": 0,
+    "mtime": 1765922016.1985264
+  },
+  {
+    "path": "inteligencia/operaciones/2025-12-16/SOL_USDT",
+    "chunks": 0,
+    "mtime": 1765919252.6567585
+  },
+  {
+    "path": "inteligencia/operaciones/2025-12-16/SUI_USDT",
+    "chunks": 0,
+    "mtime": 1765919886.9716904
+  },
+  {
+    "path": "inteligencia/operaciones/2025-12-16/WLD_USDT",
+    "chunks": 0,
+    "mtime": 1765921251.9227846
+  },
+  {
+    "path": "inteligencia/operaciones/2025-12-16/XRP_USDT",
+    "chunks": 0,
+    "mtime": 1765919586.313455
+  },
+  {
+    "path": "inteligencia/operaciones/2025-12-16/ZEC_USDT",
+    "chunks": 0,
+    "mtime": 1765919468.2570374
+  },
+  {
+    "path": "interfaz/Aplicacion.jsx",
+    "chunks": 12,
+    "mtime": 1765720698.7811406
+  },
+  {
+    "path": "interfaz/index.css",
+    "chunks": 5,
+    "mtime": 1765300244.9715774
+  },
+  {
+    "path": "interfaz/index.html",
+    "chunks": 8,
+    "mtime": 1765298434.8181386
+  },
+  {
+    "path": "interfaz/LEEME.txt",
+    "chunks": 2,
+    "mtime": 1765907921.9025102
+  },
+  {
+    "path": "interfaz/principal.jsx",
+    "chunks": 5,
+    "mtime": 1765549736.4148736
+  },
+  {
+    "path": "interfaz/componentes/BarraLateral.jsx",
+    "chunks": 23,
+    "mtime": 1765919530.20058
+  },
+  {
+    "path": "interfaz/componentes/ChatTactico.jsx",
+    "chunks": 30,
+    "mtime": 1765375700.048386
+  },
+  {
+    "path": "interfaz/componentes/ErrorBoundary.jsx",
+    "chunks": 5,
+    "mtime": 1765721204.213283
+  },
+  {
+    "path": "interfaz/componentes/PanelDerecho.jsx",
+    "chunks": 28,
+    "mtime": 1765715927.0019848
+  },
+  {
+    "path": "interfaz/componentes/SecuenciaIntro.jsx",
+    "chunks": 10,
+    "mtime": 1765721723.73323
+  },
+  {
+    "path": "interfaz/componentes/TerminalNeuronal.jsx",
+    "chunks": 10,
+    "mtime": 1765921633.3082898
+  },
+  {
+    "path": "interfaz/ganchos/useCerebro.js",
+    "chunks": 6,
+    "mtime": 1765403878.7977905
+  },
+  {
+    "path": "interfaz/ganchos/useSonidos.js",
+    "chunks": 3,
+    "mtime": 1765375744.8265212
+  },
+  {
+    "path": "interfaz/public/estado_bot.json",
+    "chunks": 60,
+    "mtime": 1767388283.2698386
+  },
+  {
+    "path": "interfaz/public/noticias.json",
+    "chunks": 14,
+    "mtime": 1767387547.9034138
+  },
+  {
+    "path": "interfaz/public/sonidos/boot_sequence.mp3",
+    "chunks": 0,
+    "mtime": 1763954751.0040462
+  },
+  {
+    "path": "interfaz/public/sonidos/click.mp3",
+    "chunks": 0,
+    "mtime": 1763954751.0066803
+  },
+  {
+    "path": "interfaz/public/sonidos/core_online.mp3",
+    "chunks": 0,
+    "mtime": 1763954751.0096846
+  },
+  {
+    "path": "interfaz/public/sonidos/notification.mp3",
+    "chunks": 0,
+    "mtime": 1763954751.0131898
+  },
+  {
+    "path": "interfaz/public/sonidos/power_down.mp3",
+    "chunks": 0,
+    "mtime": 1763954751.0162282
+  },
+  {
+    "path": "interfaz/public/sonidos/trade_buy.mp3",
+    "chunks": 0,
+    "mtime": 1763954751.0192273
+  },
+  {
+    "path": "interfaz/public/sonidos/trade_sell.mp3",
+    "chunks": 0,
+    "mtime": 1763954751.0212278
+  },
+  {
+    "path": "interfaz/public/sonidos/warning.mp3",
+    "chunks": 0,
+    "mtime": 1763954751.0256445
+  },
+  {
+    "path": "interfaz/sonidos/Sintetizador.js",
+    "chunks": 15,
+    "mtime": 1765287004.820777
+  },
+  {
+    "path": "interfaz/vistas/PanelAjustes.jsx",
+    "chunks": 15,
+    "mtime": 1765300257.3487217
+  },
+  {
+    "path": "interfaz/vistas/PanelControl.jsx",
+    "chunks": 61,
+    "mtime": 1765922271.0026488
+  },
+  {
+    "path": "interfaz/vistas/PanelEstrategia.jsx",
+    "chunks": 14,
+    "mtime": 1765300251.6128542
+  },
+  {
+    "path": "interfaz/vistas/PanelLogs.jsx",
+    "chunks": 13,
+    "mtime": 1765375668.752658
+  },
+  {
+    "path": "interfaz/vistas/PanelOperaciones.jsx",
+    "chunks": 34,
+    "mtime": 1765552298.5629926
+  },
+  {
+    "path": "interfaz/vistas/PanelPendientes.jsx",
+    "chunks": 19,
+    "mtime": 1765553366.3069572
+  },
+  {
+    "path": "interfaz/vistas/PanelPeriodico.jsx",
+    "chunks": 16,
+    "mtime": 1765402228.581443
+  },
+  {
+    "path": "memoria_vectorial/e5ce4c43-2724-4171-8d44-c2d1f6b760b0/index_metadata.pickle",
+    "chunks": 28,
+    "mtime": 1764858968.9830463
+  },
+  {
+    "path": "nucleo/cliente_mercado.js",
+    "chunks": 34,
+    "mtime": 1765325034.8687377
+  },
+  {
+    "path": "nucleo/LEEME.txt",
+    "chunks": 2,
+    "mtime": 1765907906.2698789
+  },
+  {
+    "path": "nucleo/logs_mercado.txt",
+    "chunks": 1195,
+    "mtime": 1765721183.4928625
+  },
+  {
+    "path": "nucleo/servidor_api.js",
+    "chunks": 23,
+    "mtime": 1765922253.9801228
+  },
+  {
+    "path": "scripts/run_ingesta_full.py",
+    "chunks": 2,
+    "mtime": 1765922606.6682165
+  },
+  {
+    "path": "utilidades/generar_pack_kaggle.py",
+    "chunks": 15,
+    "mtime": 1765314927.377468
+  },
+  {
+    "path": "utilidades/notificador_discord.js",
+    "chunks": 6,
+    "mtime": 1764785961.6410842
+  },
+  {
+    "path": "utilidades/periodista.py",
+    "chunks": 15,
+    "mtime": 1765402263.8817844
+  },
+  {
+    "path": "utilidades/procesar_conocimiento.py",
+    "chunks": 8,
+    "mtime": 1765380669.424332
+  },
+  {
+    "path": "utilidades/sincronizar_web.py",
+    "chunks": 18,
+    "mtime": 1765849821.0645318
+  },
+  {
+    "path": "Zerox-Core/README.md",
+    "chunks": 1,
+    "mtime": 1766503015.4459999
+  }
+]

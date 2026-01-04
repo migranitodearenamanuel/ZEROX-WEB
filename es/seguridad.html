@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seguridad • ZEROX Core</title>
+    <link rel="canonical" href="https://migranitodearenamanuel.github.io/zerox-web/es/seguridad.html">
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="icon" type="image/png" href="../assets/brand/favicon.png">
+</head>
+
+<body>
+    <nav class="navbar">
+        <div class="container flex nav-content">
+            <a href="index.html" class="logo">
+                <img src="../assets/brand/favicon.png" alt="ZEROX">
+                <span>ZEROX</span>
+            </a>
+            <div class="nav-links">
+                <a href="producto.html">Producto</a>
+                <a href="arquitectura.html">Arquitectura</a>
+                <a href="seguridad.html" class="active">Seguridad</a>
+                <a href="faq.html">FAQ</a>
+                <a href="#" class="active">ES</a>
+                <a href="../en/safety.html" style="opacity:0.5;">EN</a>
+            </div>
+        </div>
+    </nav>
+
+    <header class="hero-small">
+        <canvas id="neural-bg"></canvas>
+        <div class="container">
+            <span class="hero-tag">SAFETY FIRST</span>
+            <h1 class="text-gradient">Protocolos de Seguridad</h1>
+            <p style="max-width: 600px; margin: 20px auto; color: var(--text-muted);">
+                La velocidad no sirve de nada sin control. ZEROX prioriza la integridad del capital y la operación.
+            </p>
+        </div>
+    </header>
+
+    <section class="section">
+        <div class="container">
+            <div class="card-grid">
+                <div class="card reveal">
+                    <h3 class="text-accent">Circuit Breakers</h3>
+                    <p>Si la latencia de la API excede los 200ms o se detectan errores 5xx consecutivos, el sistema
+                        entra en modo "Sleep" automáticamente.</p>
+                </div>
+                <div class="card reveal">
+                    <h3 class="text-accent">Límites Duros (Hard Limits)</h3>
+                    <p>Variables inmutables en tiempo de ejecución definen la pérdida máxima diaria. No hay "override"
+                        humano impulsivo posible.</p>
+                </div>
+                <div class="card reveal">
+                    <h3 class="text-accent">Aislamiento de Procesos</h3>
+                    <p>El módulo de ejecución corre en un hilo separado del análisis. Un fallo de cálculo no bloquea la
+                        salida de emergencia.</p>
+                </div>
+                <div class="card reveal">
+                    <h3 class="text-accent">Logs Inmutables</h3>
+                    <p>Cada decisión se escribe en disco antes de ejecutarse. Trazabilidad forense completa para
+                        post-mortem.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Chat Widget -->
+    <div class="chat-widget">
+        <button id="chat-toggle" class="chat-toggle"><svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+                stroke="currentColor" stroke-width="2">
+                <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+            </svg></button>
+        <section id="chat-window" class="chat-window">
+            <header class="chat-header">
+                <div>
+                    <div style="font-weight:bold; color:#fff;">ZEROX AI Chat</div>
+                </div>
+                <button id="chat-close" style="background:none; border:none; color:var(--text-muted);">✕</button>
+            </header>
+            <div id="chat-mensajes" class="chat-body">
+                <div class="chat-msg bot">Sistema online.</div>
+            </div>
+            <form id="chat-form" class="chat-input-area">
+                <textarea id="chat-input" class="chat-input" rows="1"></textarea>
+                <button id="chat-enviar" class="chat-send">></button>
+            </form>
+        </section>
+    </div>
+
+    <footer class="text-center section" style="padding: 4rem 0; border-top: 1px solid var(--border-subtle);">
+        <p style="opacity: 0.5; font-size: 0.9rem;">&copy; 2026 ZEROX. Código Abierto para Líderes de Ingeniería.</p>
+        <div class="footer-socials">
+            <a href="https://www.linkedin.com/in/manuel-marco-del-pino/" target="_blank" class="footer-icon"
+                aria-label="LinkedIn">LinkedIn</a>
+            <a href="https://github.com/migranitodearenamanuel" target="_blank" class="footer-icon"
+                aria-label="Portafolio">Portafolio</a>
+            <a href="https://github.com/migranitodearenamanuel/Zerox-Core" target="_blank" class="footer-icon"
+                aria-label="Repositorio">Repositorio</a>
+        </div>
+    </footer>
+
+    <script src="../assets/js/config.js?v=5"></script>
+    <script type="module" src="../assets/js/repobrain.js?v=5"></script>
+    <script src="../assets/js/particles.js?v=5"></script>
+    <script src="../assets/js/app.js?v=5"></script>
+</body>
+
+</html>
